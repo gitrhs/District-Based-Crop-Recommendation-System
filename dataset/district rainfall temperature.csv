@@ -1,0 +1,156 @@
+state,district,average rainfall (mm),average temp (C)
+Johor,Batu Pahat,7.589,27.337
+Johor,Johor Bahru,,
+Johor,Kluang,7.298,26.768
+Johor,Kota Tinggi,,
+Johor,Kulai,,
+Johor,Mersing,7.204,26.979
+Johor,Muar,,
+Johor,Pontian,,
+Johor,Segamat,,
+Johor,Tangkak,,
+Kedah,Baling,,
+Kedah,Bandar Baharu,,
+Kedah,Kota Setar,6.124,27.396
+Kedah,Kuala Muda,,
+Kedah,Kubang Pasu,,
+Kedah,Kulim,,
+Kedah,Langkawi,7.893,28.303
+Kedah,Padang Terap,,
+Kedah,Pendang,,
+Kedah,Pokok Sena,,
+Kedah,Sik,,
+Kedah,Yan,,
+Kelantan,Bachok,,
+Kelantan,Gua Musang,,
+Kelantan,Jeli,,
+Kelantan,Kota Bharu,9.025,27.188
+Kelantan,Kuala Krai,8.506,26.56
+Kelantan,Machang,,
+Kelantan,Pasir Mas,,
+Kelantan,Pasir Puteh,,
+Kelantan,Tanah Merah,,
+Kelantan,Tumpat,,
+Melaka,Alor Gajah,,
+Melaka,Jasin,,
+Melaka,Melaka Tengah,7.061,27.358
+Negeri Sembilan,Jelebu,,
+Negeri Sembilan,Jempol,,
+Negeri Sembilan,Kuala Pilah,5.538,26.582
+Negeri Sembilan,Port Dickson,,
+Negeri Sembilan,Rembau,,
+Negeri Sembilan,Seremban,,
+Negeri Sembilan,Tampin,,
+Pahang,Bentong,,
+Pahang,Bera,,
+Pahang,Cameron Highlands,8.793,18.225
+Pahang,Jerantut,,
+Pahang,Kuantan,11.443,27.002
+Pahang,Lipis,,
+Pahang,Maran,,
+Pahang,Pekan,,
+Pahang,Raub,,
+Pahang,Rompin,,
+Pahang,Temerloh,5.683,27.236
+Perak,Bagan Datuk,,
+Perak,Batang Padang,,
+Perak,Hilir Perak,,
+Perak,Hulu Perak,,
+Perak,Kampar,,
+Perak,Kerian,,
+Perak,Kinta,,
+Perak,Kuala Kangsar,,
+Perak,Larut Dan Matang,,
+Perak,Manjung,,
+Perak,Muallim,,
+Perak,Perak Tengah,,
+Perlis,Perlis,5.803,27.373
+Pulau Pinang,Barat Daya,,
+Pulau Pinang,Seberang Perai Selatan,,
+Pulau Pinang,Seberang Perai Tengah,,
+Pulau Pinang,Seberang Perai Utara,,
+Pulau Pinang,Timur Laut,,
+Sabah,Beaufort,,
+Sabah,Beluran,,
+Sabah,Keningau,5.361,25.611
+Sabah,Kinabatangan,,
+Sabah,Kota Belud,,
+Sabah,Kota Kinabalu,9.776,27.247
+Sabah,Kota Marudu,,
+Sabah,Kuala Penyu,,
+Sabah,Kudat,7.191,27.221
+Sabah,Kunak,,
+Sabah,Lahad Datu,,
+Sabah,Nabawan,,
+Sabah,Papar,,
+Sabah,Penampang,,
+Sabah,Pitas,,
+Sabah,Putatan,,
+Sabah,Ranau,8.279,24.363
+Sabah,Sandakan,9.345,27.397
+Sabah,Semporna,,
+Sabah,Sipitang,,
+Sabah,Tambunan,,
+Sabah,Tawau,5.861,26.759
+Sabah,Telupid,,
+Sabah,Tenom,,
+Sabah,Tongod,,
+Sabah,Tuaran,,
+Sarawak,Asajaya,,
+Sarawak,Bau,,
+Sarawak,Belaga,,
+Sarawak,Beluru,,
+Sarawak,Betong,,
+Sarawak,Bintulu,11.433,26.876
+Sarawak,Bukit Mabong,,
+Sarawak,Dalat,,
+Sarawak,Daro,,
+Sarawak,Julau,,
+Sarawak,Kabong,,
+Sarawak,Kanowit,,
+Sarawak,Kapit,11.237,26.928
+Sarawak,Kuching,11.347,26.608
+Sarawak,Lawas,,
+Sarawak,Limbang,11.134,27.001
+Sarawak,Lubok Antu,,
+Sarawak,Lundu,,
+Sarawak,Maradong,,
+Sarawak,Marudi,,
+Sarawak,Matu,,
+Sarawak,Miri,8.457,27.098
+Sarawak,Mukah,,
+Sarawak,Pakan,,
+Sarawak,Pusa,,
+Sarawak,Samarahan,,
+Sarawak,Saratok,,
+Sarawak,Sarikei,,
+Sarawak,Sebauh,,
+Sarawak,Selangau,,
+Sarawak,Serian,,
+Sarawak,Sibu,10.179,27.535
+Sarawak,Simunjan,,
+Sarawak,Song,,
+Sarawak,Sri Aman,8.435,26.642
+Sarawak,Subis,,
+Sarawak,Tanjung Manis,,
+Sarawak,Tatau,,
+Sarawak,Tebedu,,
+Sarawak,Telang Usan,,
+Selangor,Gombak,,
+Selangor,Klang,,
+Selangor,Kuala Langat,,
+Selangor,Kuala Selangor,,
+Selangor,Petaling,10.268,28.252
+Selangor,Sabak Bernam,,
+Selangor,Sepang,6.147,27.534
+Selangor,Ulu Langat,,
+Selangor,Ulu Selangor,,
+Terengganu,Besut,,
+Terengganu,Dungun,,
+Terengganu,Hulu Terengganu,,
+Terengganu,Kemaman,,
+Terengganu,Kuala Nerus,,
+Terengganu,Kuala Terengganu,8.066,27.46
+Terengganu,Marang,,
+Terengganu,Setiu,,
+W.P. Labuan,W.P. Labuan,11.079,27.325
