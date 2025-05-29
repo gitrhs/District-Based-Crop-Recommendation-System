@@ -11,7 +11,7 @@ Johor,Segamat,2.5124036,102.8137391
 Johor,Tangkak,2.266995,102.5399606
 Kedah,Baling,5.673531,100.9177907
 Kedah,Bandar Baharu,5.13131,100.4973023
-Kedah,Kota Setar,,
+Kedah,Kota Setar,6.111350,100.294106
 Kedah,Kuala Muda,6.3553784,99.7186457
 Kedah,Kubang Pasu,6.28203965,100.41974210000001
 Kedah,Kulim,5.3663769,100.5525705
@@ -33,7 +33,7 @@ Kelantan,Tanah Merah,5.8097754,102.1484103
 Kelantan,Tumpat,6.2002519,102.1706651
 Melaka,Alor Gajah,2.3861261,102.2149996
 Melaka,Jasin,2.3081946,102.4303382
-Melaka,Melaka Tengah,,
+Melaka,Melaka Tengah,2.23015,102.24531
 Negeri Sembilan,Jelebu,2.9738104,102.0604321
 Negeri Sembilan,Jempol,2.897376,102.4059228
 Negeri Sembilan,Kuala Pilah,2.738649,102.2470576
@@ -54,21 +54,21 @@ Pahang,Rompin,2.8049348,103.4391905
 Pahang,Temerloh,3.4505423,102.4189
 Perak,Bagan Datuk,3.9905891,100.7864404
 Perak,Batang Padang,4.1055897,101.2948867
-Perak,Hilir Perak,,
-Perak,Hulu Perak,,
+Perak,Hilir Perak,4.00000,101.00000
+Perak,Hulu Perak,5.44797,101.29715
 Perak,Kampar,4.30066,101.1614462
 Perak,Kerian,5.1142167,100.4880253
 Perak,Kinta,4.5158471,101.05368362337087
 Perak,Kuala Kangsar,4.7720713,100.9408776
-Perak,Larut Dan Matang,,
+Perak,Larut Dan Matang,4.85377,100.74361
 Perak,Manjung,4.1912768,100.6592247
-Perak,Muallim,,
-Perak,Perak Tengah,,
+Perak,Muallim,3.83333,101.50000
+Perak,Perak Tengah,4.25000,100.91667
 Perlis,Perlis,6.4032926,100.1345543
 Pulau Pinang,Barat Daya,5.3356587,100.2389496
 Pulau Pinang,Seberang Perai Selatan,5.26300215,100.38816401127798
-Pulau Pinang,Seberang Perai Tengah,,
-Pulau Pinang,Seberang Perai Utara,,
+Pulau Pinang,Seberang Perai Tengah,5.36107,100.45736
+Pulau Pinang,Seberang Perai Utara,5.49928,100.44680
 Pulau Pinang,Timur Laut,5.4103136,100.2870311
 Sabah,Beaufort,5.3470611,115.7430094
 Sabah,Beluran,5.8979788,117.5598077
@@ -102,7 +102,7 @@ Sarawak,Belaga,2.7062161,113.781628
 Sarawak,Beluru,3.9749307,114.1020098
 Sarawak,Betong,1.4115918,111.5280962
 Sarawak,Bintulu,3.1874261,113.0472803
-Sarawak,Bukit Mabong,,
+Sarawak,Bukit Mabong,1.76468,113.84103
 Sarawak,Dalat,2.7411523,111.9387742
 Sarawak,Daro,2.5139835,111.432287
 Sarawak,Julau,2.0240673,111.9175529
@@ -114,7 +114,7 @@ Sarawak,Lawas,4.8596843,115.4082501
 Sarawak,Limbang,4.7534355,115.0093036
 Sarawak,Lubok Antu,1.0420707,111.8332189
 Sarawak,Lundu,1.6716097,109.8536303
-Sarawak,Maradong,,
+Sarawak,Maradong,2.16859,111.63471
 Sarawak,Marudi,4.1795078,114.3211018
 Sarawak,Matu,2.6743932,111.5341451
 Sarawak,Miri,4.3940102,113.9880199
@@ -135,22 +135,22 @@ Sarawak,Subis,4.0578322,113.8460823
 Sarawak,Tanjung Manis,2.1338299,111.335745
 Sarawak,Tatau,2.8777834,112.8523034
 Sarawak,Tebedu,1.0153805,110.3546347
-Sarawak,Telang Usan,,
+Sarawak,Telang Usan,3.31723,114.82583
 Selangor,Gombak,3.2330444,101.7145742
 Selangor,Klang,3.0448394,101.4447363
-Selangor,Kuala Langat,,
+Selangor,Kuala Langat,2.83656,101.49618
 Selangor,Kuala Selangor,3.3314558,101.2513058
 Selangor,Petaling,3.0988792,101.6454202
 Selangor,Sabak Bernam,3.7632801,100.9844791
 Selangor,Sepang,2.8008619,101.7094012
-Selangor,Ulu Langat,,
-Selangor,Ulu Selangor,,
+Selangor,Ulu Langat,3.08333,101.83333
+Selangor,Ulu Selangor,3.53674,101.59493
 Terengganu,Besut,5.8283726,102.5561096
 Terengganu,Dungun,4.7643972,103.4184463
-Terengganu,Hulu Terengganu,,
+Terengganu,Hulu Terengganu,4.91069,102.76507
 Terengganu,Kemaman,4.2193065,103.4225158
 Terengganu,Kuala Nerus,5.3953769,103.0623954
 Terengganu,Kuala Terengganu,5.3296461,103.1383265
 Terengganu,Marang,5.2067138,103.2050419
-Terengganu,Setiu,,
-W.P. Labuan,W.P. Labuan,,
+Terengganu,Setiu,5.55008,102.73551
+W.P. Labuan,W.P. Labuan,5.28704,115.26461
